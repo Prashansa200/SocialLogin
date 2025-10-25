@@ -7,3 +7,10 @@ pillow
 pyotp
 qrcode
 stripe
+djangorestframework
+djangorestframework-simplejwt
+gunicorn
+whitenoise
+requests
+dj-rest-auth
+django-allauth
