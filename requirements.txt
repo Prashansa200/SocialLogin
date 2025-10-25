@@ -1,7 +1,6 @@
 Django
 django-allauth
 requests
-jwt
 phonenumbers
 pillow
 pyotp
@@ -14,3 +13,4 @@ whitenoise
 requests
 dj-rest-auth
 django-allauth
+
