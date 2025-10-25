@@ -13,4 +13,3 @@ whitenoise
 requests
 dj-rest-auth
 django-allauth
-
